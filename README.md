@@ -1,4 +1,4 @@
-# Container Loading
+# Container Loading Calculation
 
 A free Windows tool for container loading calculation.
 
@@ -6,7 +6,7 @@ A free Windows tool for container loading calculation.
 
 Download the latest version from the Releases page:
 
-[Download container loading](../../releases/latest)
+[Download container loading calculation](../../releases/latest)
 
 ## ✨ Features
 
