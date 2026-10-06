@@ -1,6 +1,6 @@
 <a href='https://ko-fi.com/jerryc1984' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<img src="https://storage.ko-fi.com/cdn/useruploads/G3F8286LKN/qrcode.png?v=2fa22cd5-226e-4dcc-bf99-960bc9809d5f?v=2">
+<img src="https://storage.ko-fi.com/cdn/useruploads/G3F8286LKN/qrcode.png?v=2fa22cd5-226e-4dcc-bf99-960bc9809d5f?v=2" width="400" height="400">
 
 # Container Loading Calculation
 
