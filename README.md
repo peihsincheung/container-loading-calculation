@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jerryc1984)
+
 # Container Loading Calculation
 
 A free Windows tool for container loading calculation.
