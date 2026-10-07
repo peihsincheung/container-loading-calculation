@@ -4,7 +4,7 @@
 
 # Container Loading Calculation
 
-A free Windows tool for container loading calculation.
+Container Loading Calculation is a browser-based 3D tool for planning how cartons fit inside a shipping container. It builds a loading plan from your carton and container sizes, then shows the result in an interactive view. Everything runs locally. No account and no server are required.
 
 ## 📥 Download
 
@@ -14,13 +14,13 @@ Download the latest version from the Releases page:
 
 ## ✨ Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Automatic loading plan. Place one or more carton sizes into a 20GP, 40GP, 40HQ, or custom container, with optional ISO pallets. Cartons can be set to stand, lie on the side, or lie flat. If one container is not enough, the plan continues into the next one.
+- 3D loading view. Inspect the packed container from isometric, front, side, and top views. Hide individual carton sizes, turn on an X-ray view, and play the load step by step from the back wall toward the door.
+- Works offline. Open it in Chrome or Edge, or run the single Windows file ContainerLoadingTool.exe. Carton data stays on your computer.
 
 ## 🖥️ System Requirements
 
-- Windows 10 or later
+- Windows XP or later
 - 64-bit Windows
 
 ## 🚀 How to Use
