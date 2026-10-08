@@ -36,7 +36,7 @@ Download the latest version from the Releases page:
 
 ## ❤️ Support This Project
 
-Container Loading is completely free to use.
+Container Loading Calculation is completely free to use.
 
 If you find this software useful and would like to support its development, you can buy me a coffee:
 
