@@ -20,7 +20,7 @@ Download the latest version from the Releases page:
 
 - Automatic loading plan. Place one or more carton sizes into a 20GP, 40GP, 40HQ, or custom container, with optional ISO pallets. Cartons can be set to stand, lie on the side, or lie flat. If one container is not enough, the plan continues into the next one.
 - 3D loading view. Inspect the packed container from isometric, front, side, and top views. Hide individual carton sizes, turn on an X-ray view, and play the load step by step from the back wall toward the door.
-- Works offline. Open it in Chrome or Edge, or run the single Windows file ContainerLoadingTool.exe. Carton data stays on your computer.
+- Works offline. Run the single Windows file ContainerLoadingTool.exe. Carton data stays on your computer.
 
 ## 🖥️ System Requirements
 
