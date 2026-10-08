@@ -4,7 +4,7 @@
 
 ![banner](/.github/banner-en-16x9_github.jpg)
 
-# Container Loading Calculation
+# Container Loading Planner
 
 Container Loading Calculation is a browser-based 3D tool for planning how cartons fit inside a shipping container. It builds a loading plan from your carton and container sizes, then shows the result in an interactive view. Everything runs locally. No account and no server are required.
 
@@ -14,7 +14,7 @@ Container Loading Calculation is a browser-based 3D tool for planning how carton
 
 Download the latest version from the Releases page:
 
-[Download container loading calculation](../../releases/latest)
+[Download container loading planner](../../releases/latest)
 
 ## ✨ Features
 
@@ -36,7 +36,7 @@ Download the latest version from the Releases page:
 
 ## ❤️ Support This Project
 
-Container Loading Calculation is completely free to use.
+Container Loading Planner is completely free to use.
 
 If you find this software useful and would like to support its development, you can buy me a coffee:
 
