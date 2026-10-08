@@ -2,6 +2,9 @@
 
 <img src="https://storage.ko-fi.com/cdn/useruploads/G3F8286LKN/qrcode.png?v=2fa22cd5-226e-4dcc-bf99-960bc9809d5f?v=2" width="300" height="300">
 
+![banner](/.github/banner-en-16x9_github.jpg)
+![screenshot](/.github/ScreenShot_2026-10-08_155338_756_github.png)
+
 # Container Loading Calculation
 
 Container Loading Calculation is a browser-based 3D tool for planning how cartons fit inside a shipping container. It builds a loading plan from your carton and container sizes, then shows the result in an interactive view. Everything runs locally. No account and no server are required.
